@@ -1,0 +1,14 @@
+body {
+  background-color: #cde8f6;
+}
+
+h1 {
+  text-align: center;
+}
+
+#citation {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  font-size: 24px;
+  margin-top: 20px;
+}
